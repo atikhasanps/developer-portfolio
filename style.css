@@ -19,6 +19,9 @@ section{
 .half-width img{
     width: 80%;
 }
+.half-width p{
+    padding-right: 50px;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -31,4 +34,9 @@ section{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
 
+}
+.second-banner{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
